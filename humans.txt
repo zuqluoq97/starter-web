@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Dung Luong  ZuqLuoq@git.training @ZuqLuoq
 
 # THANKS
 
